@@ -5,23 +5,23 @@ Some awesome repos created by awesome members of our awesome Discord server comm
 
 > This repository is strongly inspired by by [awesome-go](https://github.com/avelino/awesome-go).
 
-### Contributing
+## Contributing
 
 Feel free to contribute to this project, but please take a look on the [contributing guidelines](https://github.com/dev-schueppchen/awesome-repos/blob/master/contributing.md) first.
 
-### Contents
+## Contents
 
-- [Discord Bots](#discord-bots)
 - [API Wrapper](#api-wrapper)
+- [Discord Bots](#discord-bots)
 
 ---
 
-### API Wrapper
+## API Wrapper
 *Libraries for easy-accessing APIs in different languages*
 
 - [Shitcord](https://github.com/vbe0201/Shitcord) `[Python]` - A shitty, probably not even that shitty Discord API wrapper. 
 
-### Discord Bots
+## Discord Bots
 *Bots using the Discord API.*
 
 - [MemberCounter](https://github.com/error2507/MemberCounter) `[NodeJS]` - Counts guild members and displays it per-guild as nickname.
