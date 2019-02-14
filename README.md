@@ -18,4 +18,4 @@ Feel free to contribute to this project, but please take a look on the [contribu
 ### Discord Bots
 *Bots using the Discord API.*
 
-- [shinpuru](https://github.com/zekroTJAshinpuru) `[Go]` - General moderation and management bot, also managing zekro's Dev Discord
+- [shinpuru](https://github.com/zekroTJA/shinpuru) `[Go]` - General moderation and management bot, also managing zekro's Dev Discord
