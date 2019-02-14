@@ -8,7 +8,7 @@ Feel free to contribute ot this project by **forking** the repository and creati
 - The repository must be created from you or you need to be a top-contributor to this repository.
 - The items on the list should be ordered in alphabetical order
 - The format should look like following:  
-   `- [my-repo](https://github.com/myUsername/my-repo) - Just here for showing an example.`
+   `- [my-repo](https://github.com/myUsername/my-repo) ``[usedLanguage]`` - Just here for showing an example.`
 - The description must be concise, short, non-promotional and gramatically correct 
 
 ### Quality standarts
