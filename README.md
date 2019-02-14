@@ -12,10 +12,18 @@ Feel free to contribute to this project, but please take a look on the [contribu
 ### Contents
 
 - [Discord Bots](#discord-bots)
+- [API Wrapper](#api-wrapper)
 
 ---
 
 ### Discord Bots
 *Bots using the Discord API.*
 
-- [shinpuru](https://github.com/zekroTJA/shinpuru) `[Go]` - General moderation and management bot, also managing zekro's Dev Discord
+- [MemberCounter](https://github.com/error2507/MemberCounter) `[NodeJS]` - Counts guild members and displays it per-guild as nickname.
+- [shinpuru](https://github.com/zekroTJA/shinpuru) `[Go]` - General moderation and management bot, also managing zekro's Dev Discord.
+- [Vale.py](https://github.com/vbe0201/Vale.py) `[Python]` - General purpose and fun discord bot.
+
+### API Wrapper
+*Libraries for easy-accessing APIs in different languages*
+
+- [Shitcord](https://github.com/vbe0201/Shitcord) `[Python]` - A shitty, probably not even that shitty Discord API wrapper. 
