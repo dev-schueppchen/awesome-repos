@@ -11,6 +11,8 @@ Feel free to contribute to this project, but please take a look on the [contribu
 
 ## Contents
 
+Every repository below is also listed as git submodule in [**vendor**](vendor/).
+
 - [API Wrapper](#api-wrapper)
 - [Discord Bots](#discord-bots)
 

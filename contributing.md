@@ -14,7 +14,8 @@ Make maintainers work easier and ...
 3. Add your repo, like described below, to the [readme.md](readme.md)
 4. Add your repo as sub module by using the add.sh script:  
    `bash ./scripts/add.sh category yourUsername/yourRepo`  
-   *If you want to add a new category, add it to the [categories.sh](categories.sh) file.*
+   *If you want to add a new category, add it to the [categories.sh](categories.sh) file.*  
+   *if you are n windows, please use something like gitbash.*
 5. Commit and push your local changes:  
    `git add . && git commit -m "added my repo" && git push -u origin master`
 6. Check that everything is correct and create the pull request
