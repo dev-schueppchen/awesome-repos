@@ -1,0 +1,12 @@
+[submodule "vendor/api-wrappers/vbe0201/Shitcord"]
+	path = vendor/api-wrappers/vbe0201/Shitcord
+	url = https://github.com/vbe0201/Shitcord.git
+[submodule "vendor/discord-bots/error2507/MemberCounter"]
+	path = vendor/discord-bots/error2507/MemberCounter
+	url = https://github.com/error2507/MemberCounter.git
+[submodule "vendor/discord-bots/zekroTJA/shinpuru"]
+	path = vendor/discord-bots/zekroTJA/shinpuru
+	url = https://github.com/zekroTJA/shinpuru.git
+[submodule "vendor/discord-bots/vbe0201/Vale.py"]
+	path = vendor/discord-bots/vbe0201/Vale.py
+	url = https://github.com/vbe0201/Vale.py.git
