@@ -33,4 +33,4 @@ Every repository below is also listed as git submodule in [**vendor**](vendor/).
 ## Miscellaneous
 *Other Discord-related projects*
 
-- [discord-logo](https://github.com/NNTin/discord-logo) `[html, js, css]` An animated discord logo generator using SVG.
+- [discord-logo](https://github.com/NNTin/discord-logo) `[html, js, css]` - An animated discord logo generator using SVG.
