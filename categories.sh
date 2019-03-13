@@ -7,4 +7,5 @@
 CATS=(
     "api-wrappers" \
     "discord-bots" \
+    "miscellaneous" \
 )

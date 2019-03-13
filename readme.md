@@ -21,7 +21,7 @@ Every repository below is also listed as git submodule in [**vendor**](vendor/).
 ## API Wrapper
 *Libraries for easy-accessing APIs in different languages*
 
-- [Shitcord](https://github.com/vbe0201/Shitcord) `[Python]` - A shitty, probably not even that shitty Discord API wrapper. 
+- [Shitcord](https://github.com/vbe0201/Shitcord) `[Python]` - A shitty, probably not even that shitty Discord API wrapper.
 
 ## Discord Bots
 *Bots using the Discord API.*
@@ -29,3 +29,8 @@ Every repository below is also listed as git submodule in [**vendor**](vendor/).
 - [MemberCounter](https://github.com/error2507/MemberCounter) `[NodeJS]` - Counts guild members and displays it per-guild as nickname.
 - [shinpuru](https://github.com/zekroTJA/shinpuru) `[Go]` - General moderation and management bot, also managing zekro's Dev Discord.
 - [Vale.py](https://github.com/vbe0201/Vale.py) `[Python]` - General purpose and fun discord bot.
+
+## Miscellaneous
+*Other Discord-related projects*
+
+- [discord-logo](https://github.com/NNTin/discord-logo) `[html, js, css]` An animated discord logo generator using SVG.

@@ -10,3 +10,6 @@
 [submodule "vendor/discord-bots/vbe0201/Vale.py"]
 	path = vendor/discord-bots/vbe0201/Vale.py
 	url = https://github.com/vbe0201/Vale.py.git
+[submodule "vendor/miscellaneous/nntin/discord-logo"]
+	path = vendor/miscellaneous/nntin/discord-logo
+	url = https://github.com/nntin/discord-logo.git
