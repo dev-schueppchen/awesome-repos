@@ -31,6 +31,6 @@ Every repository below is also listed as git submodule in [**vendor**](vendor/).
 - [Vale.py](https://github.com/vbe0201/Vale.py) `[Python]` - General purpose and fun discord bot.
 
 ## Miscellaneous
-*Other Discord-related projects*
+*Other awesome projects.*
 
 - [discord-logo](https://github.com/NNTin/discord-logo) `[html, js, css]` - An animated discord logo generator using SVG.
